@@ -14,6 +14,7 @@ In order to get this project running please download the code using the git clon
 
 ### - /data/data.csv                                          ---> Stores the dataset used for this project
 ### - /code/heart_disease_prediction_ml.ipynb                 ---> Stores the code/jupyter notebook used for this project
+### - /images/                                                ---> Stores the images for this project
 
 # Dataset
 
