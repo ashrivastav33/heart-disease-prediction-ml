@@ -50,8 +50,8 @@ In order to get this project running please download the code using the git clon
 ## Visualizations
 
 <img src="images/heart-disease-eda.png" width="400">
-<img src="images/model-performance.png" width="400">
-<img src="images/roc_curve.png" width="400">
+<img src="images/model-comparision.png" width="400">
+<img src="images/roc-curve.png" width="400">
 
 ## Conclusion
 
