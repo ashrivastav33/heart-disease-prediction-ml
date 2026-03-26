@@ -79,4 +79,3 @@ Based on my analysis:
 - Logistic Regression can be used as the final model because it is simple and performs well
 - It is important to focus on recall so that we don’t miss patients with heart disease
 - The model can be integrated into healthcare systems for early risk detection Regular updates with new data can help improve the model over time
-# heart-disease-prediction-ml
